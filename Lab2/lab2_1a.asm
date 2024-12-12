@@ -1,4 +1,4 @@
-    .data
+.data
 prompt1:    .asciiz "Enter the first integer: "
 prompt2:    .asciiz "\nEnter the second integer: "
 prompt3:    .asciiz "\nEnter the third integer: "
